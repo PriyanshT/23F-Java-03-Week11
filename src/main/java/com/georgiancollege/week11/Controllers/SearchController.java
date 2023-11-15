@@ -1,5 +1,9 @@
-package com.georgiancollege.week11;
+package com.georgiancollege.week11.Controllers;
 
+import com.georgiancollege.week11.Models.ApiResponse;
+import com.georgiancollege.week11.Utilities.ApiUtility;
+import com.georgiancollege.week11.Models.Movie;
+import com.georgiancollege.week11.Utilities.SceneChanger;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;

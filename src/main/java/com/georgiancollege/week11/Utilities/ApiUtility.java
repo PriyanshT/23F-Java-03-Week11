@@ -1,5 +1,6 @@
-package com.georgiancollege.week11;
+package com.georgiancollege.week11.Utilities;
 
+import com.georgiancollege.week11.Models.ApiResponse;
 import com.google.gson.Gson;
 import com.google.gson.stream.JsonReader;
 

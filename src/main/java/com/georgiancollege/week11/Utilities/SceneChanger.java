@@ -1,5 +1,7 @@
-package com.georgiancollege.week11;
+package com.georgiancollege.week11.Utilities;
 
+import com.georgiancollege.week11.Controllers.MovieDetailsController;
+import com.georgiancollege.week11.Main;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Node;

@@ -1,4 +1,4 @@
-package com.georgiancollege.week11;
+package com.georgiancollege.week11.Models;
 
 import com.google.gson.annotations.SerializedName;
 
